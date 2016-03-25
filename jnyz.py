@@ -19,7 +19,7 @@ class Download(object):
 			'Accept' : 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
 			'Accept-Language' : 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
 			'Accept-Encoding' : 'gzip, deflate',
-			'Cookie' : 'ASP.NET_SessionId=fdklhvbrf0g1qtekt5dv2u0g; .ASPXAUTH=80B4DC6A30D0204154DB25162EE9627076012ED05E26A04B8562CD64F6CC8108EE34ADA0781E8D3FDA7FF974621457E93BA3B8FF15DFFA36ACE203F34DE3540F8748CE310560013D641E3C92837403302B230BA9E877D73B0CDB3317DD738964A7490905DC3BE00891B86FE270D21AC5830C5DBC1E1629C3016AA0CC2E716B2A',
+			'Cookie' : '浏览器去查找',
 			'Connection' : 'keep-alive',
 		}
 		self.cookies = self.login()
